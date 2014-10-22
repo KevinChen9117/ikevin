@@ -4,8 +4,11 @@
 将有价值的学习资料整理到该项目中。主要有以下几类
 
 1、[Youtube上的Google IO](https://github.com/KevinChen9117/ikevin/blob/master/Google_IO.md)
+
 2、[Youtube上的跟Android 相关的DevBytes](https://github.com/KevinChen9117/ikevin/blob/master/DevBytes.md)
+
 3、[Youtube上的Android Design In Action]
+
 4、[Youtube上的跟Android 相关的DesignBytes](https://github.com/KevinChen9117/ikevin/blob/master/DesignBytes.md)
 
 ##特性
