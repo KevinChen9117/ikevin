@@ -7,7 +7,7 @@
 
 2、[Youtube上的跟Android 相关的DevBytes](https://github.com/KevinChen9117/ikevin/blob/master/DevBytes.md)
 
-3、[Youtube上的Android Design In Action]
+3、[Youtube上的Android Design In Action](https://github.com/KevinChen9117/ikevin/blob/master/AndroidDesignInAction.md)
 
 4、[Youtube上的跟Android 相关的DesignBytes](https://github.com/KevinChen9117/ikevin/blob/master/DesignBytes.md)
 
